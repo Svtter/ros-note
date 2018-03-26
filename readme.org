@@ -1,5 +1,23 @@
-#+TITLE: ROS 笔记
 #+AUTHOR: svtter
 #+OPTION: toc:2
 
+* ROS 笔记
+
 ROS 相关记录
+
+** IMU
+
+惯性测量单元(Inertial measurement unit)
+
+
+** pcl 相关
+
+*** 保存点云
+
+
+#+BEGIN_SRC bash
+
+$ rosrun pcl_ros pointcloud_to_pcd input:=/velodyne/pointcloud2
+
+#+END_SRC
+
