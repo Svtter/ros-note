@@ -10,6 +10,11 @@ Welcome to Ros note's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   readme
+   learn
+   pcl
+   tips
+
 
 
 Indices and tables
